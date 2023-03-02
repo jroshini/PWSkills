@@ -1,0 +1,17 @@
+Computer Basics Assignment
+
+1) Computer is an electronic device that takes input from the suer processes and stores it an displays the ouput tho the user.
+
+2) RAM (Random Access Memory) is a high speed semi-conductor memory that is volatile in nature. It is also called primary maemory or main memory.
+
+3)Data is stored in the secondary memory also called as hard disk drive.
+
+4)Keyboard: Input device used to type text and numbers to documents in a computer.
+
+5) Output devices are devices that display the output processed to the user. Example: Monitor, printer, scanner etc.
+
+6) Mouse is the input device that allows the user to move the cursor/pointer on the screen.
+
+7) Machine language is directly understood by the computer without any translation.
+
+8) Input devices are the ones that take input from the user. Example: keyboard, mouse, joystick
