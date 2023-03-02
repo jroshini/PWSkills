@@ -1,0 +1,25 @@
+Git and Github Assignment
+
+1) Git is a version control system which is used for collaborative working environments and file tracking.
+
+2) Version control system refers to managing and tracking the changes made in the files or source code.
+
+3) Github is a code hosting platform which is used to store and maintain sorce code of project. It refers to the git server whose repository is stored in the cloud.
+
+4) Popular git hosting services include github, gitlab and gitblit.
+
+5)There are 2 types of version control systems:
+	i) Centralized Version Control System (CVCS)
+     ii) Distributed Version Control System (DVCS)
+
+6)Benifit of Git:
+	i) It makes project collaboration in teams easier and effective
+     ii) Tracking and managing changes in code is easier
+    iii) Project source code backup can be maintained.
+     iv) Network dependency is reduced incase of distributed VCS
+
+7) Git repository is the file structure where we can store and maintain our source code.
+
+8) $git init   : Command used to initialize a git repository.
+
+
